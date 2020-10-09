@@ -10,3 +10,11 @@ h1 {
 p {
   font-family: verdana;
   font-size: 20px;
+
+li {
+    list-style-type: circle;
+}
+
+li li {
+    list-style-type: square;
+}
